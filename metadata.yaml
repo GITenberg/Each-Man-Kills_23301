@@ -1,0 +1,40 @@
+_repo: Each-Man-Kills_23301
+_version: 0.1.0
+contributor:
+  illustrator:
+    agent_name: Napoli, Vincent
+    alias: Napoli, James Vincent
+    birthdate: 1907
+    deathdate: 1981
+    gutenberg_agent_id: '35340'
+    url: http://www.gutenberg.org/2009/agents/35340
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Glad, Victoria
+    gutenberg_agent_id: '25795'
+    url: http://www.gutenberg.org/2009/agents/25795
+description: Had enough of those fey, sparkly creatures who pass for bloodsuckers
+  these days? If so, immerse yourself in this classic from the golden age of 'weird'
+  horror fiction. Widely anthologized and recognized as a classic, "Each men kills"
+  will not disappoint.
+gutenberg_bookshelf:
+- Science Fiction
+- Science Fiction by Women
+gutenberg_issued: '2007-11-03'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '23301'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Vampires -- Fiction'
+- !lcsh 'Short stories'
+- !lcsh 'Horror tales'
+- !lcc 'PS'
+title: Each Man Kills
+url: http://www.gutenberg.org/ebooks/23301
